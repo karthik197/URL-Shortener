@@ -4,4 +4,4 @@ import pyshorteners
 shorten=pyshorteners.Shortener()
 
 #using tinyurl to shorten
-print(shorten.tinyurl.short(".....URL....."))
+print(shorten.tinyurl.short("URL"))
